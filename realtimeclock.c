@@ -11,14 +11,12 @@ int main()
     a=time(NULL);
 
     current_time= localtime(&a);
-  
-    printf("Current Time:");
     
     while(1){
 
         system("clear");
 
-        printf("%02d : %02d : %02d",current_time->tm_hour, current_time->tm_min, current_time->tm_sec);
+        printf("Current Time:\n %02d : %02d : %02d",current_time->tm_hour, current_time->tm_min, current_time->tm_sec);
 
     fflush(stdout);
     current_time->tm_sec ++ ;
