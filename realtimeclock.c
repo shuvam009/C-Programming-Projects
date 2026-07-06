@@ -11,8 +11,9 @@ int main()
     a=time(NULL);
 
     current_time= localtime(&a);
-   
-
+  
+    printf("Current Time:");
+    
     while(1){
 
         system("clear");
