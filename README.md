@@ -27,7 +27,7 @@ A digital clock implemented using C.
 
 **Features**
 - Displays current time
-- Updates continuously
+
 
 **File:** `simple_clock.c`
 
