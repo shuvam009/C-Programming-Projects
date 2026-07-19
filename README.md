@@ -22,7 +22,7 @@ A basic program that demonstrates time formatting and printing.
 
 ---
 
-### 3. Simple Clock
+### 3. Digital Clock
 A digital clock implemented using C.
 
 **Features**
