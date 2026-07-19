@@ -29,7 +29,7 @@ A digital clock implemented using C.
 - Displays current time
 
 
-**File:** `simple_clock.c`
+**File:** `digital_clock.c`
 
 ---
 
@@ -100,10 +100,10 @@ gcc calculator.c -o calculator
 ```
 C-Programming-Projects/
 │── README.md
-│── calculator.c
-│── printtime.c
-│── simple_clock.c
-│── realtimeclock.c
+│── Calculator.c
+│── Digital_clock.c
+│── Printtime.c
+│── Realtimeclock.c
 ```
 
 ---
@@ -116,7 +116,6 @@ C-Programming-Projects/
 - Student Management System
 - File Handling Projects
 - Banking System
-- Mini Compiler Projects
 
 ---
 
